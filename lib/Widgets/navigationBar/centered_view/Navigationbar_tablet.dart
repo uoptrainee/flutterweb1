@@ -19,6 +19,10 @@ class NavigationbarTabletDesktop extends StatelessWidget {
              SizedBox(width:60 ),
               NavBaritem('about'),
              SizedBox(width:60 ),
+             NavBaritem('contact'),
+             SizedBox(width:60 ),
+             NavBaritem('login'),
+             SizedBox(width:60 ),
             
           ],)
         ],

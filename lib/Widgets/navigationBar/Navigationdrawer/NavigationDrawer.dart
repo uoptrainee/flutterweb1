@@ -18,6 +18,8 @@ class NavigationDrawer1 extends StatelessWidget {
               NavigationHeader(),
               NavigationDraweritem('Episodes', Icons.videocam),
               NavigationDraweritem('Help', Icons.help),
+               NavigationDraweritem('Contact', Icons.phone),
+              // NavigationDraweritem('Login', Icons.person),
              
             ],
           ),
